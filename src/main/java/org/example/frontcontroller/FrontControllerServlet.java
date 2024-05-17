@@ -1,6 +1,6 @@
 package org.example.frontcontroller;
 
-import org.example.framework.AnnotationController;
+import org.example.annotation.AnnotationController;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
